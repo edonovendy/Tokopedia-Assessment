@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="filter">Filter</string>
+    <string name="product_item_image_desc">Product Image</string>
+    <string name="reset_filter">Reset Filter</string>
+    <string name="filter_lokasi">Lokasi</string>
+    <string name="filter_harga_minimal">Harga Minimal</string>
+    <string name="filter_harga_maksimal">Harga Maksimal</string>
+</resources>
